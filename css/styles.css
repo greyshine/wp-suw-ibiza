@@ -2,6 +2,7 @@
   font-size: 12pt;
 }
 
-img {
+.image {
   max-width: 200px;
+  height: 50px;
 }
